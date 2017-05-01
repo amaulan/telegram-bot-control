@@ -1,0 +1,17 @@
+{
+  "name": "jembot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayat Maulana",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "localStorage": "^1.0.3",
+    "node-telegram-bot-api": "^0.27.1",
+    "sqlite3": "^3.1.8"
+  }
+}
